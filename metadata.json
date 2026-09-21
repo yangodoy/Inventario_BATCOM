@@ -1,0 +1,6 @@
+{
+  "name": "SIGIN-MIL - Sistema de Inventario TIC Militar",
+  "description": "Sistema de gestión e inventario tecnológico para comunicaciones, informática militar, cifrado y equipo táctico con backend modular Express, PostgreSQL/MySQL Sequelize y Docker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
